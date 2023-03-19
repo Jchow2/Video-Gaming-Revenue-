@@ -1,4 +1,4 @@
-# Nintendo E-Commerce Sales Analysis
+# Nintendo Regional Sales Analysis
 ## Data Preparations
 Playing and discussing video games has become a customary and important part of everyday life. Experts report that the “video game industry brought in a colossal $150 billion in revenue in 2020, and it’s estimated that there are 2.7 billion gamers across the globe.” (Field Level Media). Thus, we asked ourselves this question: What types of video games are people playing today? 
 
