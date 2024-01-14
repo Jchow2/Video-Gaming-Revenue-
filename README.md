@@ -1,4 +1,4 @@
-# Impact ofd Gaming Habits on Psychological Well-Being: Anxiety, Life Satisfactions, and Social Phobia 
+# Impact of Gaming Habits on Psychological Well-Being: Anxiety, Life Satisfactions, and Social Phobia 
 
 ## Problem Description
 
