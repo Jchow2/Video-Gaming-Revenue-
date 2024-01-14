@@ -1,32 +1,30 @@
-# Nintendo Regional Sales Analysis
-## Data Preparations
-Playing and discussing video games has become a customary and important part of everyday life. Experts report that the “video game industry brought in a colossal $150 billion in revenue in 2020, and it’s estimated that there are 2.7 billion gamers across the globe.” (Field Level Media). Thus, we asked ourselves this question: What types of video games are people playing today? 
+# Impact ofd Gaming Habits on Psychological Well-Being: Anxiety, Life Satisfactions, and Social Phobia 
 
-We attempted to answer that and other questions about video game sales, trends, and scores around the world. For our data science research project, our research question was: What are the best-selling games in the modern history of gaming according to game sales and scores? 
+## Problem Description
+
+Playing online video games has become widely prevalent over the last decade. Consequently, concerns have been voiced in regard to addictive online gaming behavior. At present, research in this area relies on relatively small sample sizes from around 150 to 3500 participants and are mostly focused on narrow cultural backgrounds or only young adults. The present data is the largest openly available dataset comprising of over 13,000 participants from all over the world.
+
+With over 13,000 participants, this is the biggest openly available dataset connecting gaming habits, various socio-economic factors and measures of anxiety, social phobia, life satisfaction and narcissism.
+
+## Data Preparations
+
+This dataset combines survey data among gamers worldwide. The questionnaire consists of several set of questions as asked as a part of psychological study. The original data was collated by Marian Sauter and Dejan Draschkow from the Open Science Framework (OSF) public databank.
+
+OSF Dataset Reference [here](https://osf.io/vnbxk/)
 
 ## What are the predictive questions?
-With this question in mind, we examined the most sold games from a global perspective as our team analyzed the game’s genre, platform, regional sales, and the year of release. In addition, our information about game publishers and platforms was obtained from public datasets. Diving deeper into our investigation of our research question, we had sub-questions that we attempted to answer to assist us in our understanding of what we were researching.  
 
-- How have the total sales of games changed over time? 
-- What does the video game landscape look like today? 
-- Are critic scores consistent with the sales of the best-selling games? 
-- Do critics and regular gamers prefer different genres of games? 
-- What is the relationship between critic scores and global sales of games? 
+Investigate and understand the relationship between gaming habits and psychological well-being, specifically focusing on anxiety levels, life satisfaction, and social phobia among individuals who engage in video gaming.
 
-## Why is this important?
-All these questions are areas that our team concluded were important in determining whether there is a significant correlation between video game sales and people’s preference for video games. 
+By analyzing and studying these factors, the project aims to uncover valuable insights into the following:
 
-## References
-Ali, Arslan. “Sales of Video Games.” Kaggle, 8 Oct. 2020, https://www.kaggle.com/arslanali4343/sales-of-video-games 
+1. How do different gaming habits relate to levels of anxiety among gamers?
+2. Is there a connection between the amount of time spent gaming and an individual's overall life satisfaction?
+3. Do certain gaming preferences or playstyles correlate with higher levels of social phobia?
+4. What are the demographic and background factors that influence these relationships?
 
-Walton, Brett. “VGChartz - Video game sales tracking, Video game journalism” VGChartz website. June 2005 http://www.vgchartz.com  
+This research can help identify potential areas for intervention or support for individuals experiencing mental health challenges related to their gaming habits. This contributes to our broader understanding of the impact of video games on mental and social aspects of life.
 
-Chavarria, Ignacio. “Predicting Video Game Hits with Machine Learning.” Medium, Towards Data Science, 2 Aug. 2017, https://towardsdatascience.com/predicting-hit-video-games-with-ml-1341bd9b86b0  
+## Reference
 
-Contractor, Deep. “Top Video Games 1995-2021 Metacritic.” Kaggle, 30 Jan. 2022, https://www.kaggle.com/deepcontractor/top-video-games-19952021-metacritic  
-
-Doyle, Marc; Doyle, Julie & Dietz, Jason. “Metacritic - Movie Reviews, TV Reviews, Game Reviews, and Music Reviews” Paramount Streaming, Metacritic website, Jan 2001, https://www.metacritic.com 
-
-Norris, Devin. “A Data-Driven Exploration of Video Games - Sales and Scores.” Medium, Analytics Vidhya, 19 Feb. 2021, https://medium.com/analytics-vidhya/a-data-driven-exploration-of-video-games-sales-and-scores-3c77f1c6573c  
-
-Person. “Report: Gaming Revenue to Top $159B in 2020.” Reuters, Thomson Reuters, 12 May 2020, https://www.reuters.com/article/esports-business-gaming-revenues-idUSFLM8jkJMl  
+Sauter, Marian, and Dejan Draschkow. “Are Gamers Sad and Isolated? A Database About the Anxiety, Life Satisfaction and Social Phobia of over 13000 Participants.” PsyArXiv, 18 Nov. 2017. Web.
